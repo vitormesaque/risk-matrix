@@ -21,3 +21,5 @@ The experimental results demonstrate the effectiveness of the proposed approach 
 ## Related Repositories
 
 * [RE-BERT](https://github.com/adailtonaraujo/RE-BERT)
+* [CAiSE-20](https://github.com/jsdabrowski/CAiSE-20)
+* [MApp-IDEA](https://github.com/vitormesaque/mapp-idea)
