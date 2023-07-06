@@ -15,7 +15,9 @@ The objective of this project is to automatically analyze app reviews and catego
 
 The experimental results demonstrate the effectiveness of the proposed approach in extracting features with limited labeled data and automatically categorizing the severity or impact of risks. The Risk Matrix generated provides valuable insights for software maintenance and evolution.
 
+## Dataset 
+* [Annotated dataset](https://github.com/jsdabrowski/CAiSE-20)
 
-# Related Repositories
+## Related Repositories
 
 * [RE-BERT](https://github.com/adailtonaraujo/RE-BERT)
